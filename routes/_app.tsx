@@ -10,8 +10,8 @@ export default function App({ Component }: AppProps) {
         <link rel="stylesheet" href="/app.css" />
       </Head>
       <Header />
-      <Component class="max-w-2xl mx-auto" />
-      <Footer class="max-w-2xl mx-auto" />
+      <Component />
+      <Footer />
     </>
   );
 }

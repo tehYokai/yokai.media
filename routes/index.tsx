@@ -39,7 +39,7 @@ export default function Home() {
             </li>
           </ul>
         </div>
-          <video src="/Bobo.mp4" class="ps-8" width="800" loop autoplay />
+          <video src="/Bobo.mp4" class="ps-8" width="800" loop autoPlay />
       </div>
     </>
   );
